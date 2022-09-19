@@ -1,10 +1,11 @@
-Hey 👋 I am MrQuackDuck 
+Hey 👋 I am MrQuackDuck
 ================================
 
 Enjoy making ASP.NET-based Websites, scripts and using Frameworks
 ---------------------------------------------------------
 
-* 🌍  I'm based in Lviv, Ukraine
+* 🌍  I'm based in Lviv, Ukraine 🇺🇦
+* 🦆  My name is Danyil Primerov
 * ✉️  You can contact me on [Email](mailto:mrquackduckk@gmail.com)
 * 🧠  I'm improving my `C#` skills
 
@@ -28,7 +29,7 @@ Enjoy making ASP.NET-based Websites, scripts and using Frameworks
   
 ### 🛠 Tools
 
-<p align="left"> <a href="" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/JetBrains_Rider_Icon.svg" width="32" height="32" /></a><a href="" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="32" height="32" /></a><a href="" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" width="32" height="32" /></a> <a href="" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/JetBrains_Rider_Icon.svg" width="32" height="32" /></a> <a href="" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="32" height="32" /></a> <a href="" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" width="32" height="32" /></a> <a href="" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="32" height="32" /></a></p>
   
 ### ➤ Socials
 

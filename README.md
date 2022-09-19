@@ -25,7 +25,7 @@ Enjoy making ASP.NET-based Websites, scripts and using Frameworks
 
 ### 💻 Workspace
 
-<p align="left"> <a href="https://www.microsoft.com/en-us/software-download/windows10" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_%28dark_blue%29.svg" width="32" height="32" /> <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" width="32" height="32" /></a>
+<p align="left"> <a href="https://www.microsoft.com/en-us/software-download/windows10" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_%28dark_blue%29.svg" width="32" height="32" /> <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" width="34" height="34" /></a>
   
 ### 🛠 Tools
 

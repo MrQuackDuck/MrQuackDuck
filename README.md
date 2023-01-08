@@ -21,6 +21,7 @@ Enjoy making ASP.NET-based Websites, scripts and using Frameworks
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://github.com/wappalyzer/wappalyzer/blob/master/src/drivers/webextension/images/icons/Bootstrap.svg" width="36" height="36" alt="Bootstrap" /></a>
  <a href="https://learn.microsoft.com/en-us/sql/?view=sql-server-ver16" target="_blank" rel="noreferrer"><img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" width="36" height="36" alt="SQL" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.svg" width="36" height="36" alt="Dart" /></a>
 </p>
 
 ### 💻 Workspace

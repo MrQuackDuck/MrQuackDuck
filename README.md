@@ -5,7 +5,7 @@ Enjoy making ASP.NET-based Websites, scripts and using Frameworks
 ---------------------------------------------------------
 
 * 🌍  I'm based in Lviv, Ukraine 🇺🇦
-* 🦆  My name is Danyil Primerov
+* 🦆  My name is Danyil
 * ✉️  You can contact me on [Email](mailto:mrquackduckk@gmail.com)
 * 🔼  I'm improving my `C#` skills
 

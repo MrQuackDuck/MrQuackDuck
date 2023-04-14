@@ -1,6 +1,5 @@
 👋 Hey there! MrQuackDuck's here 🦆
 ================================
-
 Enjoy making ASP.NET-based Websites, using scripts and Frameworks
 ---------------------------------------------------------
 
@@ -50,3 +49,6 @@ Enjoy making ASP.NET-based Websites, using scripts and Frameworks
 <a href="http://www.github.com/mrquackduck"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mrquackduck&stroke=000000&background=0D1117&ring=FFC83D&fire=EA8F1C&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true" /></a>
 
 <a href="http://www.github.com/mrquackduck"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrQuackDuck&text_color=ffffff&title_color=FFFFFF&border_color=626161&bg_color=0D1117&card_width=495&color=FFFFFF&line=FFC83D&point=EA8F1C&area_color=ffffff&area=true&hide_border=true&custom_title=Most%20Used%20Languages"/></a>
+
+  
+  ![](https://komarev.com/ghpvc/?username=MrQuackDuck&color=DEB914&label=Visitors)

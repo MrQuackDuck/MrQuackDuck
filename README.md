@@ -14,7 +14,7 @@ Enjoy making ASP.NET-based Websites, using scripts and Frameworks
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/61251075/232053585-e9070269-0214-430f-9643-ad3a660a5d53.png" width="36" height="36" alt="ASP.NET" /></a>
+<a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/61251075/232067324-4b66d8c9-62c0-4378-9b3a-70dcf799e2e0.png" width="36" height="36" alt="ASP.NET" /></a>
 <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" width="37.5" height="37.5" alt="Angular" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="36" height="36" alt="Javascript" /></a>
@@ -22,7 +22,7 @@ Enjoy making ASP.NET-based Websites, using scripts and Frameworks
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.svg" width="36" height="36" alt="Dart" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://learn.microsoft.com/en-us/sql/?view=sql-server-ver16" target="_blank" rel="noreferrer"><img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" width="36" height="36" alt="SQL Server" /></a>
+<a href="https://learn.microsoft.com/en-us/sql/?view=sql-server-ver16" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/61251075/232068051-957e02bc-ff38-4a28-8035-b1ece8b5c726.png" width="36" height="36" alt="SQL Server" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://www.arvixe.com/images/landing_pages/mysql_hosting.png" width="36" height="36" alt="MySQL" /></a>
 <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Apache_Feather_Logo.svg" width="36" height="36" alt="Apache" /></a>
 </p>

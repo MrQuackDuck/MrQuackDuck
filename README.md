@@ -1,25 +1,29 @@
-Hey 👋 I am MrQuackDuck
+👋 Hey there! MrQuackDuck's here 🦆
 ================================
 
-Enjoy making ASP.NET-based Websites, scripts and using Frameworks
+Enjoy making ASP.NET-based Websites, using scripts and Frameworks
 ---------------------------------------------------------
 
-* 🌍  I'm based in Lviv, Ukraine 🇺🇦
+* 🌍  I'm based in Ukraine 🇺🇦
 * 🦆  My name is Danyil
 * ✉️  You can contact me on [Email](mailto:mrquackduckk@gmail.com)
 * 🔼  I'm improving my `C#` skills
+
+![image](https://user-images.githubusercontent.com/61251075/232047291-01308074-9875-4e75-973b-35ba4836dbed.png)
 
 ### 🎓 Skills 
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" width="36" height="36" alt="Angular" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://github.com/wappalyzer/wappalyzer/blob/master/src/drivers/webextension/images/icons/Bootstrap.svg" width="36" height="36" alt="Bootstrap" /></a>
- <a href="https://learn.microsoft.com/en-us/sql/?view=sql-server-ver16" target="_blank" rel="noreferrer"><img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" width="36" height="36" alt="SQL" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://learn.microsoft.com/en-us/sql/?view=sql-server-ver16" target="_blank" rel="noreferrer"><img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" width="36" height="36" alt="SQL Server" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://static.cdnlogo.com/logos/m/10/mysql.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.svg" width="36" height="36" alt="Dart" /></a>
 </p>

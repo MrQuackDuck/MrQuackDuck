@@ -33,7 +33,7 @@ Enjoy making ASP.NET-based Websites, using scripts and Frameworks
 
 ### ☁ Cloud services
 
-<p align="left"><a href="https://azure.microsoft.com/en-us" title="Microsoft Azure" target="_blank" rel="noreferrer"><img src="https://static.cdnlogo.com/logos/a/12/azure.svg" width="34" height="34" /></a> <a href="https://aws.amazon.com/" title="AWS" target="_blank" rel="noreferrer"><img src="https://mti.com/wp-content/uploads/2021/04/Amazon-Web-Services-Logo-White.png" width="32" height="18" /> <a href="https://www.cloudflare.com/" title="Cloudflare" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/C/cloudflare-logo-6B7D159387-seeklogo.com.png" width="34" height="17" /></a>
+<p align="left"><a href="https://azure.microsoft.com/en-us" title="Microsoft Azure" target="_blank" rel="noreferrer"><img src="https://static.cdnlogo.com/logos/a/12/azure.svg" width="34" height="22" /></a> <a href="https://aws.amazon.com/" title="AWS" target="_blank" rel="noreferrer"><img src="https://mti.com/wp-content/uploads/2021/04/Amazon-Web-Services-Logo-White.png" width="32" height="18" /> <a href="https://www.cloudflare.com/" title="Cloudflare" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/C/cloudflare-logo-6B7D159387-seeklogo.com.png" width="34" height="17" /></a>
 </p>
 
 ### 💻 Workspace

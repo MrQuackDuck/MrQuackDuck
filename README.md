@@ -57,3 +57,4 @@ Enjoy making ASP.NET-based Websites, using scripts and Frameworks
 
   
   ![](https://komarev.com/ghpvc/?username=MrQuackDuck&color=DEB914&label=Visitors)
+  ![](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)

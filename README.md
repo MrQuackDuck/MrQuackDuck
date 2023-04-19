@@ -55,6 +55,6 @@ Enjoy making ASP.NET-based Websites, using scripts and Frameworks
 
 <a href="http://www.github.com/mrquackduck"><img src="https://github-readme-stats-gamma-six-45.vercel.app/api/top-langs/?username=MrQuackDuck&text_color=ffffff&title_color=FFFFFF&border_color=626161&bg_color=0D1117&card_width=495&color=FFFFFF&line=FFC83D&point=EA8F1C&area_color=ffffff&area=true&hide_border=true&custom_title=Most%20Used%20Languages"/></a>
 
-  
-  ![](https://komarev.com/ghpvc/?username=MrQuackDuck&color=DEB914&label=Visitors)
-  <a href="https://github.com/vshymanskyy/StandWithUkraine">![](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)</a>
+<span><img src="https://komarev.com/ghpvc/?username=MrQuackDuck&color=DEB914&label=Visitors" /></span>
+<a href="https://github.com/vshymanskyy/StandWithUkraine"><img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg"></a>
+<a href="https://github.com/MrQuackDuck"><img src="https://img.shields.io/github/followers/MrQuackDuck?label=Follow&style=social" /></a>

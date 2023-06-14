@@ -5,7 +5,7 @@ Enjoy making ASP.NET-based Websites, using scripts and Frameworks
 
 * 🌍  I'm based in Ukraine 🇺🇦
 * 🦆  My name is Danyil
-* ✉️  You can contact me on [Email](mailto:mrquackduckk@gmail.com)
+* ✉️  You can contact me on [Telegram](https://t.me/MrQuackDuck)
 * 🔼  I'm improving my `C#` skills
 
 ![image](https://user-images.githubusercontent.com/61251075/232047291-01308074-9875-4e75-973b-35ba4836dbed.png)

@@ -33,7 +33,7 @@ Enjoy making ASP.NET-based Websites, using scripts and Frameworks
 
 ### ☁ Cloud services
 
-<p align="left"><a href="https://azure.microsoft.com/en-us" title="Microsoft Azure" target="_blank" rel="noreferrer"><img src="https://static.cdnlogo.com/logos/a/12/azure.svg" width="34" height="22" /></a> <a href="https://aws.amazon.com/" title="AWS" target="_blank" rel="noreferrer"><img src="https://mti.com/wp-content/uploads/2021/04/Amazon-Web-Services-Logo-White.png" width="32" height="18" /> <a href="https://www.cloudflare.com/" title="Cloudflare" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/C/cloudflare-logo-6B7D159387-seeklogo.com.png" width="34" height="17" /></a>
+<p align="left"><a href="https://azure.microsoft.com/en-us" title="Microsoft Azure" target="_blank" rel="noreferrer"><img src="https://static.cdnlogo.com/logos/a/12/azure.svg" width="34" height="22" /></a> <a href="https://aws.amazon.com/" title="AWS" target="_blank" rel="noreferrer"><img src="https://github.com/MrQuackDuck/MrQuackDuck/assets/61251075/145f9f6e-d343-46dc-ade8-064aeaedd66e" width="32" height="18" /> <a href="https://www.cloudflare.com/" title="Cloudflare" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/C/cloudflare-logo-6B7D159387-seeklogo.com.png" width="34" height="17" /></a>
 </p>
 
 ### 💻 Workspace
@@ -45,8 +45,6 @@ Enjoy making ASP.NET-based Websites, using scripts and Frameworks
 <p align="left">
 <a href="https://www.youtube.com/channel/UCgHi8oEP6pgww8jHIJt1aGA" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/YouTube_social_white_squircle.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/mrquackduckk" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/danyil-primierov-053061249/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="32" height="32" /></a> <a href="https://stackoverflow.com/users/20036176/mrquackduck" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.reddit.com/user/MrQuackDuck7" target="_blank" rel="noreferrer"><img src="https://links.communitycenter.eu/images/4/43/Reddit.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/mrquackduck_" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Twitch_Glitch_Logo_Purple.svg" width="32" height="32" /></a></p>
 
-
-  
 ### 🏆 My GitHub Stats
 
 <a href="http://www.github.com/mrquackduck"><img src="https://github-readme-stats.vercel.app/api?username=mrquackduck&show_icons=true&hide=&count_private=true&title_color=FFC83D&text_color=FFFFFF&icon_color=EA8F1C&bg_color=0D1117&hide_border=true&show_icons=true" alt="MrQuackDuck's GitHub stats" /></a>

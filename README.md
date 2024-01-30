@@ -40,7 +40,7 @@ Enjoy making ASP.NET-based Websites, using scripts and Frameworks
 
 <p align="left"> <a href="https://www.microsoft.com/en-us/software-download/windows10" title="Windows 10" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_%28dark_blue%29.svg" width="32" height="32" /> <a title="Ubuntu" href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" width="34" height="34" /></a></p>
 
-### ➤ Socials
+### 🌐 Socials
 
 <p align="left">
 <a href="https://www.youtube.com/channel/UCgHi8oEP6pgww8jHIJt1aGA" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/YouTube_social_white_squircle.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/mrquackduckk" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mrquackduck/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="32" height="32" /></a> <a href="https://stackoverflow.com/users/20036176/mrquackduck" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.reddit.com/user/MrQuackDuck7" target="_blank" rel="noreferrer"><img src="https://links.communitycenter.eu/images/4/43/Reddit.svg" width="32" height="32" /></a></p>

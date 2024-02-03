@@ -8,9 +8,9 @@ Enjoy making ASP.NET-based Websites, using scripts and Frameworks
 * ✉️  You can contact me on [Telegram](https://t.me/MrQuackDuck)
 * 🔼  I'm improving my `C#` skills
 
-![image](https://user-images.githubusercontent.com/61251075/232047291-01308074-9875-4e75-973b-35ba4836dbed.png)
+![Шапка-banner](https://github.com/MrQuackDuck/MrQuackDuck/assets/61251075/62b321e2-7b47-4017-82d7-360fcfb788bd)
 
-### 🎓 Skills 
+### 🎓 Mainly used Technologies
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="36" height="36" alt="C#" /></a>
@@ -18,13 +18,11 @@ Enjoy making ASP.NET-based Websites, using scripts and Frameworks
 <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" width="37.5" height="37.5" alt="Angular" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.svg" width="36" height="36" alt="Dart" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://learn.microsoft.com/en-us/sql/?view=sql-server-ver16" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/61251075/232068051-957e02bc-ff38-4a28-8035-b1ece8b5c726.png" width="36" height="36" alt="SQL Server" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://4vector.com/i/free-vector-mysql_080511_mysql.png" width="36" height="36" alt="MySQL" /></a>
-<a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Apache_Feather_Logo.svg" width="36" height="36" alt="Apache" /></a>
+<a href="https://www.sqlite.org" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" width="36" height="36" alt="SQLite" /></a>
+<a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/373924/nginx.svg" width="36" height="36" alt="Nginx" /></a>
+<a href="https://www.nginx.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Apache_Feather_Logo.svg" width="36" height="36" alt="Apache" /></a>
 </p>
 
 ### 🛠 Tools
@@ -43,9 +41,9 @@ Enjoy making ASP.NET-based Websites, using scripts and Frameworks
 ### 🌐 Socials
 
 <p align="left">
-<a href="https://www.youtube.com/channel/UCgHi8oEP6pgww8jHIJt1aGA" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/YouTube_social_white_squircle.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/mrquackduckk" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mrquackduck/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="32" height="32" /></a> <a href="https://stackoverflow.com/users/20036176/mrquackduck" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.reddit.com/user/MrQuackDuck7" target="_blank" rel="noreferrer"><img src="https://links.communitycenter.eu/images/4/43/Reddit.svg" width="32" height="32" /></a></p>
+<a href="https://t.me/MrQuackDuck" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mrquackduck/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="32" height="32" /></a> <a href="https://stackoverflow.com/users/20036176/mrquackduck" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.reddit.com/user/MrQuackDuck7" target="_blank" rel="noreferrer"><img src="https://links.communitycenter.eu/images/4/43/Reddit.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/channel/UCgHi8oEP6pgww8jHIJt1aGA" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/YouTube_social_white_squircle.svg" width="32" height="32" /></a></p>
 
-### 🏆 My GitHub Stats
+### 🏆 Profile Stats
 
 <a href="http://www.github.com/mrquackduck"><img src="https://github-readme-stats.vercel.app/api?username=mrquackduck&show_icons=true&hide=&count_private=true&title_color=FFC83D&text_color=FFFFFF&icon_color=EA8F1C&bg_color=0D1117&hide_border=true&show_icons=true" alt="MrQuackDuck's GitHub stats" /></a>
 

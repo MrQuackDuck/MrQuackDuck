@@ -21,8 +21,8 @@ Enjoy making ASP.NET-based Websites, using scripts and Frameworks
 <a href="https://learn.microsoft.com/en-us/sql/?view=sql-server-ver16" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/61251075/232068051-957e02bc-ff38-4a28-8035-b1ece8b5c726.png" width="36" height="36" alt="SQL Server" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://4vector.com/i/free-vector-mysql_080511_mysql.png" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.sqlite.org" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" width="36" height="36" alt="SQLite" /></a>
-<a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/373924/nginx.svg" width="36" height="36" alt="Nginx" /></a>
-<a href="https://www.nginx.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Apache_Feather_Logo.svg" width="36" height="36" alt="Apache" /></a>
+<a href="https://www.nginx.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/373924/nginx.svg" width="36" height="36" alt="Nginx" /></a>
+<a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Apache_Feather_Logo.svg" width="36" height="36" alt="Apache" /></a>
 </p>
 
 ### 🛠 Tools

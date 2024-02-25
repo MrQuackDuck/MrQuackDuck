@@ -5,12 +5,12 @@ Enjoy making ASP.NET-based Websites, using scripts and Frameworks
 
 * 🌍  I'm based in Ukraine 🇺🇦
 * 🦆  My name is Danyil
-* ✉️  You can contact me on [Telegram](https://t.me/MrQuackDuck)
+* ✉️  You can contact me via [Telegram](https://t.me/MrQuackDuck)
 * 🔼  I'm improving my `C#` skills
 
 ![Шапка-banner](https://github.com/MrQuackDuck/MrQuackDuck/assets/61251075/62b321e2-7b47-4017-82d7-360fcfb788bd)
 
-### 🎓 Mainly used Technologies
+### 🎓 Tech stack
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="36" height="36" alt="C#" /></a>
@@ -33,10 +33,6 @@ Enjoy making ASP.NET-based Websites, using scripts and Frameworks
 
 <p align="left"><a href="https://azure.microsoft.com/en-us" title="Microsoft Azure" target="_blank" rel="noreferrer"><img src="https://static.cdnlogo.com/logos/a/12/azure.svg" width="34" height="22" /></a> <a href="https://aws.amazon.com/" title="AWS" target="_blank" rel="noreferrer"><img src="https://github.com/MrQuackDuck/MrQuackDuck/assets/61251075/145f9f6e-d343-46dc-ade8-064aeaedd66e" width="32" height="18" /> <a href="https://www.cloudflare.com/" title="Cloudflare" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/C/cloudflare-logo-6B7D159387-seeklogo.com.png" width="34" height="17" /></a>
 </p>
-
-### 💻 Workspace
-
-<p align="left"> <a href="https://www.microsoft.com/en-us/software-download/windows10" title="Windows 10" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_%28dark_blue%29.svg" width="32" height="32" /> <a title="Ubuntu" href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" width="34" height="34" /></a></p>
 
 ### 🌐 Socials
 

@@ -11,7 +11,7 @@
 <b>-</b> **BackEnd**: 
 <a href="https://dotnet.microsoft.com"><img src="https://img.shields.io/badge/.NET-gray?color=6B47C1&logo=csharp" /></a>
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet"><img src="https://img.shields.io/badge/ASP.NET-gray?color=2A4FBD&logo=dotnet" /></a>
-<a href="https://learn.microsoft.com/en-us/ef/core/"><img src="https://img.shields.io/badge/EntityFramework_Core-gray?color=F07427&logo=dotnet" /></a>
+<a href="https://learn.microsoft.com/en-us/ef/core/"><img src="https://img.shields.io/badge/EF_Core-gray?color=F07427&logo=dotnet" /></a>
 <a href="https://httpd.apache.org/"><img src="https://img.shields.io/badge/Apache-gray?color=C8273F&logo=apache" /></a>
 <a href="https://www.nginx.com/"><img src="https://img.shields.io/badge/Nginx-gray?color=089C08&logo=nginx" /></a><br>
 <b>-</b> **FrontEnd**: 

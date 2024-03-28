@@ -30,6 +30,7 @@
 <a href="https://www.cloudflare.com/"><img src="https://img.shields.io/badge/Cloudflare-gray?color=FFFFFF&logo=cloudflare" /></a><br>
 <b>-</b> **API QA**: 
 <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-gray?color=F76935&logo=postman&logoColor=FFFFFF" /></a>
+<a href="https://swagger.io/"><img src="https://img.shields.io/badge/Swagger-gray?color=6CBE25&logo=swagger&logoColor=FFFFFF" /></a>
 
 ![Banner](https://github.com/MrQuackDuck/MrQuackDuck/assets/61251075/62b321e2-7b47-4017-82d7-360fcfb788bd)
 

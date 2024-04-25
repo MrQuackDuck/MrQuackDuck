@@ -1,7 +1,6 @@
 ### Hi there! 👋
 
 - 🔭 I'm a **.NET** developer
-- 👀 My name is Danyil <br>
 - 🌍 Location: Ukraine 🇺🇦 <br>
 - 🎓 Student at [LPNU](https://lpnu.ua/) <br>
 - ✉️ You can contact me via [Telegram](https://t.me/MrQuackDuck) <br>

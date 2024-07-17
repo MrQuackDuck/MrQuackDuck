@@ -12,7 +12,7 @@
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet"><img src="https://img.shields.io/badge/ASP.NET-gray?color=2A4FBD&logo=dotnet" /></a>
 <a href="https://learn.microsoft.com/en-us/ef/core/"><img src="https://img.shields.io/badge/EF_Core-gray?color=F07427&logo=dotnet" /></a>
 <a href="https://httpd.apache.org/"><img src="https://img.shields.io/badge/Apache-gray?color=C8273F&logo=apache" /></a>
-<a href="https://www.nginx.com/"><img src="https://img.shields.io/badge/Nginx-gray?color=089C08&logo=nginx" /></a><br>
+<a href="https://nginx.org/en/"><img src="https://img.shields.io/badge/Nginx-gray?color=089C08&logo=nginx" /></a><br>
 <b>-</b> **FrontEnd**: 
 <a href="https://angular.io/"><img src="https://img.shields.io/badge/Angular-gray?color=DE3036&logo=angular" /></a>
 <a href="https://rxjs.dev/"><img src="https://img.shields.io/badge/RxJs-gray?color=D11B9A&logo=reactivex" /></a>
@@ -29,7 +29,7 @@
 <a href="https://www.cloudflare.com/"><img src="https://img.shields.io/badge/Cloudflare-gray?color=FFFFFF&logo=cloudflare" /></a><br>
 <b>-</b> **API QA**: 
 <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-gray?color=F76935&logo=postman&logoColor=FFFFFF" /></a>
-<a href="https://swagger.io/"><img src="https://img.shields.io/badge/Swagger-gray?color=6CBE25&logo=swagger&logoColor=FFFFFF" /></a>
+<a href="https://swagger.io/"><img src="https://img.shields.io/badge/Swagger-gray?color=6CBE25&logo=swagger&logoColor=FFFFFF" /></a><br>
 
 ![Banner](https://github.com/MrQuackDuck/MrQuackDuck/assets/61251075/62b321e2-7b47-4017-82d7-360fcfb788bd)
 

@@ -1,4 +1,4 @@
-### What's up? 👀
+### About me 👀
 
 - 🔩 I'm a **.NET** developer
 - 🌍 Location: Ukraine 🇺🇦 <br>
